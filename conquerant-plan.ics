@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conquerant//Plan 2026-27//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conquérant · Plan 2026-27
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:Plan d'entraînement Backyard / Néouvielle / Marathon
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:2026-11-03-run@conquerant
+DTSTAMP:20261101T150144Z
+DTSTART:20261103T070000
+DTEND:20261103T073000
+SUMMARY:Footing EF du matin · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-run@conquerant
+DTSTAMP:20261101T150144Z
+DTSTART:20261104T070000
+DTEND:20261104T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-gym@conquerant
+DTSTAMP:20261101T150144Z
+DTSTART:20261104T180000
+DTEND:20261104T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
