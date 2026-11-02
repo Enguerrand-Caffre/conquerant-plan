@@ -9,8 +9,18 @@ X-WR-CALDESC:Plan d'entraînement Backyard / Néouvielle / Marathon
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+UID:2026-11-02-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-03-run@conquerant
-DTSTAMP:20261101T150144Z
+DTSTAMP:20261102T165448Z
 DTSTART:20261103T070000
 DTEND:20261103T073000
 SUMMARY:Footing EF du matin · 5 km
@@ -20,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-run@conquerant
-DTSTAMP:20261101T150144Z
+DTSTAMP:20261102T165448Z
 DTSTART:20261104T070000
 DTEND:20261104T073000
 SUMMARY:Footing EF + Gym B · 5 km
@@ -30,9 +40,1569 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-gym@conquerant
-DTSTAMP:20261101T150144Z
+DTSTAMP:20261102T165448Z
 DTSTART:20261104T180000
 DTEND:20261104T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261105T180000
+DTEND:20261105T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force de base (35 min) — Échauffement 8' (vélo ou rameur très facile\, mobilité hanches et chevilles). Presse à cuisses 3×10 (4 reps en réserve) · Soulevé de terre roumain\, haltères légers 3×10 · Montées de banc basses 3×8/jambe · Pont fessier 3×10 · Mollets debout\, descente en 3 s 3×12 · Planche 3×30". Charge légère : tu ressors sans courbatures. Douleur au-dessus de 3/10 = tu coupes l'exercice.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261106T070000
+DTEND:20261106T072400
+SUMMARY:Footing EF · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261108T080000
+DTEND:20261108T090100
+SUMMARY:Sortie longue EF · 10 km
+DESCRIPTION:10 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre : marche 1' dès que la fréquence cardiaque s'emballe\, et arrête-toi si une douleur apparaît ou change ta foulée. La veille\, l'activation de 3 km est facultative.\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261110T070000
+DTEND:20261110T073000
+SUMMARY:Footing EF du matin · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261111T070000
+DTEND:20261111T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261111T180000
+DTEND:20261111T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261112T180000
+DTEND:20261112T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force de base (35 min) — Échauffement 8' (vélo ou rameur très facile\, mobilité hanches et chevilles). Presse à cuisses 3×10 (4 reps en réserve) · Soulevé de terre roumain\, haltères légers 3×10 · Montées de banc basses 3×8/jambe · Pont fessier 3×10 · Mollets debout\, descente en 3 s 3×12 · Planche 3×30". Charge légère : tu ressors sans courbatures. Douleur au-dessus de 3/10 = tu coupes l'exercice.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261113T070000
+DTEND:20261113T073000
+SUMMARY:Footing EF · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261115T080000
+DTEND:20261115T090700
+SUMMARY:Sortie longue EF · 11 km
+DESCRIPTION:11 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre : marche 1' dès que la fréquence cardiaque s'emballe\, et arrête-toi si une douleur apparaît ou change ta foulée. La veille\, l'activation de 3 km est facultative.\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261117T070000
+DTEND:20261117T073000
+SUMMARY:Footing EF du matin · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261118T070000
+DTEND:20261118T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261118T180000
+DTEND:20261118T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261119T180000
+DTEND:20261119T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force de base (35 min) — Échauffement 8' (vélo ou rameur très facile\, mobilité hanches et chevilles). Presse à cuisses 3×10 (4 reps en réserve) · Soulevé de terre roumain\, haltères légers 3×10 · Montées de banc basses 3×8/jambe · Pont fessier 3×10 · Mollets debout\, descente en 3 s 3×12 · Planche 3×30". Charge légère : tu ressors sans courbatures. Douleur au-dessus de 3/10 = tu coupes l'exercice.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261120T070000
+DTEND:20261120T073000
+SUMMARY:Footing EF · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261122T080000
+DTEND:20261122T091300
+SUMMARY:Sortie longue EF · 12 km
+DESCRIPTION:12 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre : marche 1' dès que la fréquence cardiaque s'emballe\, et arrête-toi si une douleur apparaît ou change ta foulée. La veille\, l'activation de 3 km est facultative.\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261124T070000
+DTEND:20261124T073000
+SUMMARY:Footing EF du matin · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261125T070000
+DTEND:20261125T072400
+SUMMARY:Footing EF + Gym B · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261125T180000
+DTEND:20261125T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261126T180000
+DTEND:20261126T185000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261127T070000
+DTEND:20261127T072400
+SUMMARY:Footing EF · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261129T080000
+DTEND:20261129T085500
+SUMMARY:Sortie longue EF · 9 km
+DESCRIPTION:9 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre : marche 1' dès que la fréquence cardiaque s'emballe\, et arrête-toi si une douleur apparaît ou change ta foulée. La veille\, l'activation de 3 km est facultative.\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261201T070000
+DTEND:20261201T073000
+SUMMARY:Footing EF du matin · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261202T070000
+DTEND:20261202T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261202T180000
+DTEND:20261202T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261203T180000
+DTEND:20261203T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force de base (35 min) — Échauffement 8' (vélo ou rameur très facile\, mobilité hanches et chevilles). Presse à cuisses 3×10 (4 reps en réserve) · Soulevé de terre roumain\, haltères légers 3×10 · Montées de banc basses 3×8/jambe · Pont fessier 3×10 · Mollets debout\, descente en 3 s 3×12 · Planche 3×30". Charge légère : tu ressors sans courbatures. Douleur au-dessus de 3/10 = tu coupes l'exercice.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261204T070000
+DTEND:20261204T073000
+SUMMARY:Footing EF · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261206T080000
+DTEND:20261206T091300
+SUMMARY:Sortie longue EF · 12 km
+DESCRIPTION:12 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre : marche 1' dès que la fréquence cardiaque s'emballe\, et arrête-toi si une douleur apparaît ou change ta foulée. La veille\, l'activation de 3 km est facultative.\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261208T070000
+DTEND:20261208T073000
+SUMMARY:Footing EF du matin · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261209T070000
+DTEND:20261209T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261209T180000
+DTEND:20261209T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261210T180000
+DTEND:20261210T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force bas du corps spécialisée trail (50 min) — Échauffement 8'. Squat barre ou gobelet 4×6 (2 reps en réserve) · Fente bulgare 3×8/jambe · Soulevé de terre roumain 3×8 · Montées de banc lestées\, haute marche 3×8/jambe · Mollets debout 3×12 puis assis (soléaire) 3×15\, descente en 3 s · Tirage anti-rotation (Pallof) 3×10/côté. Repos 90" à 2'. Progression : +2\,5 kg quand toutes les reps sont propres deux séances de suite. Jamais à l'échec.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261211T070000
+DTEND:20261211T073000
+SUMMARY:Footing EF · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre\, au ressenti : tu peux courir dans le bas de la zone E si tout va bien. Si la FC s'emballe ou si la gêne revient\, marche 1' et ralentis. FC de repos au réveil : +5 bpm pendant 3 jours = jour de repos.\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261213T080000
+DTEND:20261213T091900
+SUMMARY:Sortie longue EF · 13 km
+DESCRIPTION:13 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nConseil : Allure libre : marche 1' dès que la fréquence cardiaque s'emballe\, et arrête-toi si une douleur apparaît ou change ta foulée. La veille\, l'activation de 3 km est facultative.\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261215T070000
+DTEND:20261215T073500
+SUMMARY:Allure marathon courte (conditionnel) · 6 km
+DESCRIPTION:6 km au total : 10' E\, 6×1' à allure marathon (5:01–5:19/km)\, récupération 1'30 de trot\, 8' E. Séance CONDITIONNELLE : aucune douleur et FC au repos revenue à ton niveau habituel depuis 2 semaines. Si non\, footing EF.\n\nÉchauffement : 15' de footing E\, 4 éducatifs (talons-fesses\, montées de genoux\, pas chassés)\, 3 lignes droites de 80 m.\n\nRetour au calme : 10' de footing très lent.\n\nAllures : M 5:01–5:19/km (allure marathon) · T 4:50–5:01/km (seuil) · I 4:26–4:38/km (VMA longue)\n\nNutrition : Rien de spécial \; hydratation normale.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261216T070000
+DTEND:20261216T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261216T180000
+DTEND:20261216T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261217T180000
+DTEND:20261217T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force bas du corps spécialisée trail (50 min) — Échauffement 8'. Squat barre ou gobelet 4×6 (2 reps en réserve) · Fente bulgare 3×8/jambe · Soulevé de terre roumain 3×8 · Montées de banc lestées\, haute marche 3×8/jambe · Mollets debout 3×12 puis assis (soléaire) 3×15\, descente en 3 s · Tirage anti-rotation (Pallof) 3×10/côté. Repos 90" à 2'. Progression : +2\,5 kg quand toutes les reps sont propres deux séances de suite. Jamais à l'échec.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261218T070000
+DTEND:20261218T072400
+SUMMARY:Footing EF + foulées · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis. En fin de séance : 5 foulées de 20" progressives (pas des sprints)\, 1' de récup.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261220T080000
+DTEND:20261220T092500
+SUMMARY:Sortie longue EF · 14 km
+DESCRIPTION:14 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : 30–45 g de glucides/h dès 1h15 (gel\, pâte de fruits\, banane)\, 450–750 ml/h. Teste ce que tu emporteras en course.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261222T070000
+DTEND:20261222T073000
+SUMMARY:Footing EF du matin · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261223T070000
+DTEND:20261223T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261223T180000
+DTEND:20261223T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261224T180000
+DTEND:20261224T185000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261225T070000
+DTEND:20261225T072400
+SUMMARY:Footing EF · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261227T080000
+DTEND:20261227T090100
+SUMMARY:Sortie longue EF · 10 km
+DESCRIPTION:10 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261229T070000
+DTEND:20261229T073500
+SUMMARY:Allure marathon courte (conditionnel) · 6 km
+DESCRIPTION:6 km au total : 10' E\, 5×2' à allure marathon\, récupération 1'30 de trot\, 8' E. Séance CONDITIONNELLE : aucune douleur et FC au repos revenue à ton niveau habituel depuis 2 semaines. Sinon\, footing EF.\n\nÉchauffement : 15' de footing E\, 4 éducatifs (talons-fesses\, montées de genoux\, pas chassés)\, 3 lignes droites de 80 m.\n\nRetour au calme : 10' de footing très lent.\n\nAllures : M 5:01–5:19/km (allure marathon) · T 4:50–5:01/km (seuil) · I 4:26–4:38/km (VMA longue)\n\nNutrition : Rien de spécial \; hydratation normale.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261230T070000
+DTEND:20261230T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261230T180000
+DTEND:20261230T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20261231T180000
+DTEND:20261231T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force bas du corps spécialisée trail (50 min) — Échauffement 8'. Squat barre ou gobelet 4×6 (2 reps en réserve) · Fente bulgare 3×8/jambe · Soulevé de terre roumain 3×8 · Montées de banc lestées\, haute marche 3×8/jambe · Mollets debout 3×12 puis assis (soléaire) 3×15\, descente en 3 s · Tirage anti-rotation (Pallof) 3×10/côté. Repos 90" à 2'. Progression : +2\,5 kg quand toutes les reps sont propres deux séances de suite. Jamais à l'échec.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270101T070000
+DTEND:20270101T072400
+SUMMARY:Footing EF + foulées · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis. En fin de séance : 5 foulées de 20" progressives (pas des sprints)\, 1' de récup.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270103T080000
+DTEND:20270103T093800
+SUMMARY:Sortie longue EF · 16 km
+DESCRIPTION:16 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : 30–45 g de glucides/h dès 1h15 (gel\, pâte de fruits\, banane)\, 450–750 ml/h. Teste ce que tu emporteras en course.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270105T070000
+DTEND:20270105T073500
+SUMMARY:Allure marathon courte (conditionnel) · 6 km
+DESCRIPTION:6 km au total : 10' E\, 4×4' à allure marathon\, récupération 2' de trot\, 8' E. Séance CONDITIONNELLE : aucune douleur et FC au repos revenue à ton niveau habituel depuis 2 semaines. Sinon\, footing EF.\n\nÉchauffement : 15' de footing E\, 4 éducatifs (talons-fesses\, montées de genoux\, pas chassés)\, 3 lignes droites de 80 m.\n\nRetour au calme : 10' de footing très lent.\n\nAllures : M 5:01–5:19/km (allure marathon) · T 4:50–5:01/km (seuil) · I 4:26–4:38/km (VMA longue)\n\nNutrition : Rien de spécial \; hydratation normale.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270106T070000
+DTEND:20270106T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270106T180000
+DTEND:20270106T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270107T180000
+DTEND:20270107T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force bas du corps spécialisée trail (50 min) — Échauffement 8'. Squat barre ou gobelet 4×6 (2 reps en réserve) · Fente bulgare 3×8/jambe · Soulevé de terre roumain 3×8 · Montées de banc lestées\, haute marche 3×8/jambe · Mollets debout 3×12 puis assis (soléaire) 3×15\, descente en 3 s · Tirage anti-rotation (Pallof) 3×10/côté. Repos 90" à 2'. Progression : +2\,5 kg quand toutes les reps sont propres deux séances de suite. Jamais à l'échec.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270108T070000
+DTEND:20270108T073000
+SUMMARY:Footing EF + foulées · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis. En fin de séance : 5 foulées de 20" progressives (pas des sprints)\, 1' de récup.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270110T080000
+DTEND:20270110T090700
+SUMMARY:Sortie longue EF · 11 km
+DESCRIPTION:11 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270112T070000
+DTEND:20270112T074200
+SUMMARY:Footing EF + foulées · 7 km
+DESCRIPTION:7 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis. En fin de séance : 5 foulées de 20" progressives (pas des sprints)\, 1' de récup.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270113T070000
+DTEND:20270113T071800
+SUMMARY:Footing EF + activation · 3 km
+DESCRIPTION:3 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Repos
+DESCRIPTION:Pas de course le jeudi.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Repos veille de course
+DESCRIPTION:Repos complet. Dossard\, sac\, tenue froid\, repas riche en glucides le soir.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-race@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270116T090000
+DTEND:20270116T120600
+SUMMARY:🏁 Trail ~25 km près de Nantes (300+ m D+)
+DESCRIPTION:Trail ~25 km près de Nantes (300+ m D+)\n\n25 km avec 300 m de D+ environ. Avec une sortie longue maximale de 16 km\, c'est une course d'expérience : tu cours à plat\, tu marches toutes les bosses\, tu restes en zone E\, et tu comptes 3 h à 3 h 20. Décision de maintien le 4 janvier selon la sortie de 16 km.\n\nLieu : Région nantaise (44)\nStatut : à confirmer\nHeure de départ à confirmer auprès de l'organisateur.
+CATEGORIES:Course
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Repos post-course
+DESCRIPTION:Repos complet. Marche libre\, bain tiède\, manger.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Repos post-course
+DESCRIPTION:Marche libre 20–30 min. Les quads sont en dette musculaire après 25 km.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270120T070000
+DTEND:20270120T072400
+SUMMARY:Footing récup (E haute) · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270121T180000
+DTEND:20270121T185000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270122T070000
+DTEND:20270122T074800
+SUMMARY:Footing EF · 8 km
+DESCRIPTION:8 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270124T080000
+DTEND:20270124T084900
+SUMMARY:Sortie EF facile · 8 km
+DESCRIPTION:8 km en zone E\, plat. Reprise après le trail.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270126T070000
+DTEND:20270126T073500
+SUMMARY:Allure marathon courte (conditionnel) · 6 km
+DESCRIPTION:6 km au total : 10' E\, 3×6' à allure marathon\, récupération 2' de trot\, 8' E. Séance CONDITIONNELLE : aucune douleur et FC au repos revenue à ton niveau habituel depuis 2 semaines. Sinon\, footing EF.\n\nÉchauffement : 15' de footing E\, 4 éducatifs (talons-fesses\, montées de genoux\, pas chassés)\, 3 lignes droites de 80 m.\n\nRetour au calme : 10' de footing très lent.\n\nAllures : M 5:01–5:19/km (allure marathon) · T 4:50–5:01/km (seuil) · I 4:26–4:38/km (VMA longue)\n\nNutrition : Rien de spécial \; hydratation normale.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270127T070000
+DTEND:20270127T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270127T180000
+DTEND:20270127T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270128T180000
+DTEND:20270128T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Force bas du corps spécialisée trail (50 min) — Échauffement 8'. Squat barre ou gobelet 4×6 (2 reps en réserve) · Fente bulgare 3×8/jambe · Soulevé de terre roumain 3×8 · Montées de banc lestées\, haute marche 3×8/jambe · Mollets debout 3×12 puis assis (soléaire) 3×15\, descente en 3 s · Tirage anti-rotation (Pallof) 3×10/côté. Repos 90" à 2'. Progression : +2\,5 kg quand toutes les reps sont propres deux séances de suite. Jamais à l'échec.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270129T070000
+DTEND:20270129T072400
+SUMMARY:Footing EF + foulées · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis. En fin de séance : 5 foulées de 20" progressives (pas des sprints)\, 1' de récup.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270131T080000
+DTEND:20270131T092500
+SUMMARY:Sortie longue EF · 14 km
+DESCRIPTION:14 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : 30–45 g de glucides/h dès 1h15 (gel\, pâte de fruits\, banane)\, 450–750 ml/h. Teste ce que tu emporteras en course.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270202T070000
+DTEND:20270202T073500
+SUMMARY:Seuil court (conditionnel) · 6 km
+DESCRIPTION:6 km au total : 12' E\, 15' continues à T (seulement si les jambes sont fraîches)\, 8' E. Séance CONDITIONNELLE : aucune douleur et FC au repos revenue à ton niveau habituel depuis 2 semaines. Sinon\, footing EF.\n\nÉchauffement : 15' de footing E\, 3 lignes droites de 80 m.\n\nRetour au calme : 10' de footing très lent.\n\nT : 4:50–5:01/km (seuil)\n\nConseil : Au seuil\, tu dois pouvoir dire trois mots\, pas plus. Si tu es plus rapide\, tu transformes un seuil en séance d'intensité.\n\nNutrition : Rien de spécial.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270203T070000
+DTEND:20270203T073600
+SUMMARY:Footing EF + Gym B · 6 km
+DESCRIPTION:6 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270203T180000
+DTEND:20270203T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270204T180000
+DTEND:20270204T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Excentrique & descente (45 min) — Échauffement 8'. Squat tempo (4 s en descente) 3×8 · Descente de marche contrôlée (5 s) 3×12/jambe · Fente arrière 3×10/jambe · Pont fessier une jambe 3×10 · Mollets excentriques 3×15 · Copenhague 3×20"/côté. Objectif : encaisser les descentes et les heures de boucles sans dette musculaire.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270205T070000
+DTEND:20270205T073000
+SUMMARY:Footing EF + foulées · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis. En fin de séance : 5 foulées de 20" progressives (pas des sprints)\, 1' de récup.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270207T090000
+DTEND:20270207T110000
+SUMMARY:🔁 2 boucles de 6\,7 km (départ 9h)
+DESCRIPTION:2 boucles de 6\,7 km (= 13.4 km) au départ de chaque heure pleine à partir de 9h00. Tu arrêtes la séance si une douleur change ta foulée\, pas à la dernière minute d'un format scolaire. Chronomètre chaque boucle : objectif entre 41 et 45 minutes\, jamais plus vite sur la 1re.\nÀ chaque pause (≈ 15 min) : 250–300 ml de boisson + 40–60 g de glucides solides ou liquides (riz\, pain-miel\, banane\, compote)\, une pincée de sel. Sur 2 boucles : 100 g de glucides au total\, à tester.
+CATEGORIES:Boucles
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270209T070000
+DTEND:20270209T073000
+SUMMARY:Footing EF du matin · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270210T070000
+DTEND:20270210T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270210T180000
+DTEND:20270210T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270211T180000
+DTEND:20270211T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Excentrique & descente (45 min) — Échauffement 8'. Squat tempo (4 s en descente) 3×8 · Descente de marche contrôlée (5 s) 3×12/jambe · Fente arrière 3×10/jambe · Pont fessier une jambe 3×10 · Mollets excentriques 3×15 · Copenhague 3×20"/côté. Objectif : encaisser les descentes et les heures de boucles sans dette musculaire.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270212T070000
+DTEND:20270212T072400
+SUMMARY:Footing EF · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270214T080000
+DTEND:20270214T100200
+SUMMARY:Sortie longue test · 20 km
+DESCRIPTION:20 km en zone E\, terrain vallonné. Test d'éligibilité pour l'Atlantic'Trail : si tu le finis sans douleur et avec une FC maîtrisée\, le 36 km est jouable ; sinon tu passes au 15 km du dimanche 28.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : 30–45 g de glucides/h dès 1h15 (gel\, pâte de fruits\, banane)\, 450–750 ml/h. Teste ce que tu emporteras en course.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270216T070000
+DTEND:20270216T073600
+SUMMARY:Footing EF du matin · 6 km
+DESCRIPTION:6 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270217T070000
+DTEND:20270217T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270217T180000
+DTEND:20270217T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270218T180000
+DTEND:20270218T185000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270219T070000
+DTEND:20270219T073000
+SUMMARY:Footing EF · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270221T080000
+DTEND:20270221T091300
+SUMMARY:Sortie longue EF · 12 km
+DESCRIPTION:12 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Les 2 derniers km à allure confortable\, jamais en forçant.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270223T070000
+DTEND:20270223T074200
+SUMMARY:Footing EF · 7 km
+DESCRIPTION:7 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270224T070000
+DTEND:20270224T072400
+SUMMARY:Footing EF + activation · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Repos
+DESCRIPTION:Pas de course le jeudi.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Repos veille de course
+DESCRIPTION:Repos complet. Dossard\, sac\, repas riche en glucides.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-race@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270227T090000
+DTEND:20270227T131200
+SUMMARY:🏁 Atlantic'Trail — 36 km
+DESCRIPTION:Atlantic'Trail — 36 km\n\n36 km\, D+ faible. Cours-le comme une longue sortie en zone E\, avec des pauses de marche aux ravitos. Décision 36 km ou 15 km (dimanche 28) à prendre le 20 février d'après la sortie test du 20 km.\n\nLieu : Rezé (44) — lieu à vérifier\nStatut : confirmée\nHeure de départ à confirmer auprès de l'organisateur.
+CATEGORIES:Course
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Repos
+DESCRIPTION:Repos complet. (Plan B : le 15 km de ce dimanche\, seulement si tu as choisi la distance courte.)
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Repos post-course
+DESCRIPTION:Marche libre 20–30 min.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270303T070000
+DTEND:20270303T072400
+SUMMARY:Footing récup (E haute) · 4 km
+DESCRIPTION:4 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270304T180000
+DTEND:20270304T185000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270305T070000
+DTEND:20270305T080000
+SUMMARY:Footing EF · 10 km
+DESCRIPTION:10 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270307T080000
+DTEND:20270307T090100
+SUMMARY:Sortie EF · 10 km
+DESCRIPTION:10 km en zone E\, plat. Une semaine après les 36 km\, tu relances sans chercher la durée.\n\nÉchauffement : Les 15 premières minutes volontairement lentes.\n\nRetour au calme : 5' de marche\, boire\, manger une vraie collation dans les 30 minutes.\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau\, collation au retour.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270309T070000
+DTEND:20270309T080000
+SUMMARY:Footing EF · 10 km
+DESCRIPTION:10 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270310T070000
+DTEND:20270310T073600
+SUMMARY:Footing EF + Gym B · 6 km
+DESCRIPTION:6 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270310T180000
+DTEND:20270310T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Activation légère — pas de course
+DESCRIPTION:Pas de course le jeudi. La salle seulement.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270312T070000
+DTEND:20270312T071800
+SUMMARY:Veille de course : footing + foulées · 3 km
+DESCRIPTION:3 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis. En fin de séance : 5 foulées de 20" progressives (pas des sprints)\, 1' de récup.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-race@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270314T101500
+DTEND:20270314T111500
+SUMMARY:🏁 10 km d'Orvault — départ 10h15
+DESCRIPTION:10 km d'Orvault — départ 10h15\n\n10 km\, +112 m. Allure contrôlée en E haute (5:50–6:10/km\, 58 à 62 min) : tu y vas pour le plaisir\, sans chrono visé. Une semaine avant les 3 boucles\, c'est une séance de rythme\, pas un test.\n\nLieu : Orvault (44)\nStatut : confirmée\nHeure de départ à confirmer auprès de l'organisateur.
+CATEGORIES:Course
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270316T070000
+DTEND:20270316T074200
+SUMMARY:Footing EF du matin · 7 km
+DESCRIPTION:7 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270317T070000
+DTEND:20270317T073600
+SUMMARY:Footing EF + Gym B · 6 km
+DESCRIPTION:6 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270317T180000
+DTEND:20270317T183000
+SUMMARY:Gym B
+DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270318T180000
+DTEND:20270318T185000
+SUMMARY:Gym A
+DESCRIPTION:Gym A — Excentrique & descente (45 min) — Échauffement 8'. Squat tempo (4 s en descente) 3×8 · Descente de marche contrôlée (5 s) 3×12/jambe · Fente arrière 3×10/jambe · Pont fessier une jambe 3×10 · Mollets excentriques 3×15 · Copenhague 3×20"/côté. Objectif : encaisser les descentes et les heures de boucles sans dette musculaire.
+CATEGORIES:Salle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Repos + gainage léger
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Repos · activation 3 km facultative
+DESCRIPTION:Repos. Si les jambes en ont envie : 3 km TRÈS faciles (6:15/km ou plus lent) et 4 foulées de 15" sans forcer\, pour réveiller les jambes avant la sortie longue de demain. Aucun chrono. Si tu hésites\, tu ne la fais pas. Samedi est aussi un bon moment pour un étirement doux ou une séance de mobilité.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270321T090000
+DTEND:20270321T120000
+SUMMARY:🔁 3 boucles de 6\,7 km (départ 9h)
+DESCRIPTION:3 boucles de 6\,7 km (20\,1 km) au départ de 9h00\, 10h00 et 11h00. Si le Marathon du Mont-Saint-Michel est tiré au sort (21 mars)\, il remplace cette séance.\nÀ chaque pause (≈ 15 min) : 250–300 ml de boisson + 40–60 g de glucides solides ou liquides (riz\, pain-miel\, banane\, compote)\, une pincée de sel. Sur 3 boucles : 150 g de glucides au total\, à tester.
+CATEGORIES:Boucles
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-repos@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Repos complet
+DESCRIPTION:Repos complet. Sommeil\, hydratation\, marche libre si tu en as envie. C'est le jour qui suit la sortie longue : le corps s'adapte ici\, pas sur la route.
+CATEGORIES:Repos
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270323T070000
+DTEND:20270323T073600
+SUMMARY:Footing EF du matin · 6 km
+DESCRIPTION:6 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-run@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270324T070000
+DTEND:20270324T073000
+SUMMARY:Footing EF + Gym B · 5 km
+DESCRIPTION:5 km en zone E (5:25–6:16/km (zone E\, tu peux parler)). Si tu dois reprendre ton souffle pour parler\, ralentis.\n\nÉchauffement : Les 5 premières minutes très lentes\, épaules relâchées.\n\nRetour au calme : 2' de marche\, 3' de mobilité (hanches\, mollets).\n\nE : 5:25–6:16/km (zone E\, tu peux parler)\n\nNutrition : Eau seulement. Pas de gel sur moins de 75 minutes.
+CATEGORIES:Course à pied
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-gym@conquerant
+DTSTAMP:20261102T165448Z
+DTSTART:20270324T180000
+DTEND:20270324T183000
 SUMMARY:Gym B
 DESCRIPTION:Gym B — Stabilité\, pieds & gainage (30 min) — Équilibre unipodal sur coussin 3×30" · Marche latérale avec élastique 3×15 pas · Pont fessier une jambe 3×12 · Mollets une jambe 3×12 · Copenhague (adducteurs) 3×20"/côté · Dead bug 3×10 · Planche latérale 3×30"/côté · Marche sur les talons (tibiaux) 2×20 pas. Enchaîne avec peu de repos : c'est de la prévention\, pas de la force. Tu dois ressortir plus mobile qu'en entrant.
 CATEGORIES:Salle
